@@ -5,7 +5,9 @@ Lets make some chunky controls...
 
 	gem install sass
 	sass --watch chunky.scss:chunky.css
-	lift output
-	deploy
+	deploy output
+	Chunked
 
-Chunked
+Quick reference CSS classes:
+	chunky-textbox - chunked textbox
+	chunky-dropdown - chunked dropdown
