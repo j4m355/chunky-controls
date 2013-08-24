@@ -5,5 +5,7 @@ Lets make some chunky controls...
 
 	gem install sass
 	sass --watch chunky.scss:chunky.css
+	lift output
+	deploy
 
 Chunked
